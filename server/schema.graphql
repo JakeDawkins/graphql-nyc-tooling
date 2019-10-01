@@ -1,0 +1,8 @@
+type Query {
+  # my comment
+  me: User
+}
+
+type User {
+  firstName: String
+}
